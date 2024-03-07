@@ -3,7 +3,7 @@
 #include "atividade.h"
 
 int main(){
-    
+    printf("Bora");
 
     return 0;
 }
