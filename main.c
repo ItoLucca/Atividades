@@ -23,6 +23,5 @@ int main(){
         }
         printf("A soma é igual a: %i", &lista_soma);
     }
-
     return 0;
 }
