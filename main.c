@@ -12,11 +12,10 @@ int main(){
 
 
     if(opcao = 1){
-        printf("Digite um numero para que seja realizada a soma: \n");
-        scanf(lista_soma[*ultima_posicao]);
+        inserir_numeros(&ultima_posicao;)
     }
 
-    else{
+    else if(opcao = 2){
         for(int i = 0; i <*ultima_posicao ; i++){
             soma = lista_soma[i + 1];
 
