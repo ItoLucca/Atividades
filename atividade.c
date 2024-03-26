@@ -6,6 +6,7 @@ int inserir_numeros(int *ultima_posicao, int lista_soma[]){
     do{
         printf("Digite um numero para que seja realizada a soma: \n");
         scanf("%d", &numero);
+        numero = *ultima_posicao;
         (*ultima_posicao)++;
 
     } while(("%d", &lista_soma[*ultima_posicao]) == 1);
